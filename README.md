@@ -14,7 +14,6 @@ lorem ispum lorem ipsum lorem ipsum lorem ispum lorem lorem ispum lorem ipsum lo
 - 🖼️​take a look on my figma desings here: www.figma.com
   
 <h4>My Skills 👨‍💻</h4>
-<h4>Programming Languages </h4>
 
 <h4>Frontend Development</h4>
 <p aling="left">
@@ -62,4 +61,3 @@ lorem ispum lorem ipsum lorem ipsum lorem ispum lorem lorem ispum lorem ipsum lo
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
