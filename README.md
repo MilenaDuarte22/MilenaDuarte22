@@ -11,5 +11,18 @@ lorem ispum lorem ipsum lorem ipsum lorem ispum lorem lorem ispum lorem ipsum lo
 
 - 👨‍💻 check out my portifolio ;) : [www.portifolio.com](www.portifolio.com)
 - 📄 you can download my cv here: [www.cv.v](www.cv.v)
+  
+<h4>My Skills 👨‍💻</h4>
+<h4>Programming Languages </h4>
+
+<h4>Frontend Development</h4>
+<p aling="left">
+  <a href="" target="blank" cursor="pointer"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="" target="blank" cursor="pointer"><img src="	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>
+</p>
+
+
+<h4>Backend Development</h4>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
