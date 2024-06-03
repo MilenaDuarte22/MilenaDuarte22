@@ -11,8 +11,11 @@ I'm a passionate Web Developer, building my version of the digital world one cha
   
 Let's connect and create something amazing together! 
 <p/>
+  
 - 👨‍💻 check out my portifolio ;) : 
+
 - 📄 you can download my cv here:
+  
 - 🖼️​take a look on my figma desings here: 
   
 <h4>My Skills 👨‍💻</h4>
