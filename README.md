@@ -6,12 +6,14 @@
 </p>
 
 <h4>About me ✨</h4>
-<p>A passionate Web Developer lorem ipsum lorem ipsum lorem ipsum lorem ispum lorem ipsum lorem ipsum </br> 
-lorem ispum lorem ipsum lorem ipsum lorem ispum lorem lorem ispum lorem ipsum lorem ipsum lorem is. </br> lorem ispum lorem ipsum lorem ipsum lorem ispum lorem.</p>
-
-- 👨‍💻 check out my portifolio ;) : [www.portifolio.com](www.portifolio.com)
-- 📄 you can download my cv here: [www.cv.v](www.cv.v)
-- 🖼️​take a look on my figma desings here: www.figma.com
+<p>
+I'm a passionate Web Developer, building my version of the digital world one character at a time. <br/> Design applications and solving problems, I conceptualize and build projects from the ground up.<br/> My approach involves not just writing code but creating solutions that address real-life challenges. <br/> Whether it’s developing dynamic websites or crafting engaging user experiences, I’m driven by the goal<br/> of making the digital world a better, more functional place for everyone with an artistic touch. <br/>
+  
+Let's connect and create something amazing together! 
+<p/>
+- 👨‍💻 check out my portifolio ;) : 
+- 📄 you can download my cv here:
+- 🖼️​take a look on my figma desings here: 
   
 <h4>My Skills 👨‍💻</h4>
 
@@ -47,7 +49,7 @@ lorem ispum lorem ipsum lorem ipsum lorem ispum lorem lorem ispum lorem ipsum lo
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a> 
 </p>
 
-<h4>Data Base</h4>
+<h4>Other Softwares</h4>
 <p>
   <a href="" target="blank" cursor="pointer">
     <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/>
